@@ -85,6 +85,21 @@ Para esta versión de portafolio:
 - Se utiliza `.env.example`
 - Los datos mostrados en capturas deben ser ficticios
 
+## 📌 Estado del proyecto
+
+Este repositorio documenta un sistema clínico que desarrollé como proyecto profesional utilizando Laravel, PHP y MySQL.
+
+El código fuente original no se encuentra publicado en este repositorio debido a que fue desarrollado para un entorno real de trabajo y podía contener información o configuraciones privadas.
+
+Esta versión de portafolio muestra:
+
+- Arquitectura general del sistema
+- Módulos principales
+- Diseño de base de datos
+- Flujos de trabajo
+- Tecnologías utilizadas
+- Ejemplos y componentes recreados con fines demostrativos
+
 ## 📸 Capturas
 
 Próximamente se añadirán capturas de:
